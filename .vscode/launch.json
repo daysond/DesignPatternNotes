@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/daysondong/Desktop/SED505_Notes/structural",
-      "program": "/Users/daysondong/Desktop/SED505_Notes/structural/build/Debug/outDebug"
+      "cwd": "/Users/daysondong/Desktop/SED505_Notes",
+      "program": "/Users/daysondong/Desktop/SED505_Notes/build/Debug/outDebug"
     }
   ]
 }
